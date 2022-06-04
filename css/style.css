@@ -1,3 +1,12 @@
 body{
     background-color: rgb(217, 217, 233)
 }
+.meusLinks {
+    margin:10px 0 0 10px;
+    z-index: 1;
+}
+
+.bt_links {
+    width: 30px;
+    
+}
