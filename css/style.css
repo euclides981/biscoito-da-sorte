@@ -1,14 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Oxygen:wght@300;400;700&display=swap');
 body{
+    font-family: 'Oxygen', sans-serif;
+    letter-spacing: 0.1em;
     background-color: rgb(217, 217, 233)
 }
 .meusLinks {
     margin:10px 0 0 10px;
     z-index: 1;
 }
-
 .bt_links {
     width: 30px;
 }
 .logo_linkedin {
     filter: invert(26%) sepia(100%) saturate(1353%) hue-rotate(191deg) brightness(96%) contrast(95%);
+}
+.titulo {
+    font-family: 'Fredoka One', cursive;
+    font-weight: 400;
+}
+.frase {
+    color: #000;
+    font-weight: 400;
 }
