@@ -8,5 +8,7 @@ body{
 
 .bt_links {
     width: 30px;
-    
+}
+.logo_linkedin {
+    filter: invert(26%) sepia(100%) saturate(1353%) hue-rotate(191deg) brightness(96%) contrast(95%);
 }
