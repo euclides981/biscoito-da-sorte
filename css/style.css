@@ -2,7 +2,7 @@
 body{
     font-family: 'Oxygen', sans-serif;
     letter-spacing: 0.1em;
-    background-color: rgb(217, 217, 233)
+    background-color: #d9d9e9
 }
 .meusLinks {
     margin:10px 0 0 10px;
@@ -18,7 +18,13 @@ body{
     font-family: 'Fredoka One', cursive;
     font-weight: 400;
 }
+.teste {
+    padding: 10px;
+}
 .frase {
-    color: #000;
+    margin: auto;
+    padding: 10px;
+    border-radius: 5px;
+    color: #a0aa0c;
     font-weight: 400;
 }

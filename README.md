@@ -10,7 +10,7 @@ Nas duas ultimas aulas do curso, acontece um mini Hackathon, um tipo de maratona
 
 ### Este foi o resultado
 
-[![Biscoito da Sorte](img/card.png)](https://euclides981.github.io/biscoito-da-sorte)
+[![Biscoito da Sorte](img/card.png?#vitrinedev)](https://euclides981.github.io/biscoito-da-sorte)
 
 ---
 
